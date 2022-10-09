@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beck68725
 - 👀 I’m interested in obtaining a career revolving around my new found skills in Web Development.
-- 🌱 I’m currently working on my second milestone project.
+- 🌱 I’m currently working on Advances Topics: Sass.
 - 📫 How to reach me 
 rcoburn0098@gmail.com
 
